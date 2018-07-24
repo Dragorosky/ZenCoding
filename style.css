@@ -1,0 +1,21 @@
+
+body {
+    background-color: antiquewhite;
+    margin: 5%;
+
+
+}
+.titre-principal {
+    margin-top: 5%;
+    line-height: 70px;
+    text-align: center;
+    color: #1224B0;
+    font-family: Arial, sans-serif;
+    word-spacing: 3%;
+}
+
+#titre-presentation {
+    text-align: center;
+    text-decoration: underline;
+    color: #fffc91;
+}
